@@ -129,8 +129,6 @@ const Catz = () => {
 		 	<Mapped catArray={sortCatsArray} />
 		</Scroll>
 		
-	
-		
 		</>
 
 		);
